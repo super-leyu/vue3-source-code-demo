@@ -1,3 +1,7 @@
+/*
+快速 diff 算法
+*/
+
 function shouldSetAsProps(el, key, value) {
     if (key === 'form' && el.tagName === 'INPUT') return false
     return key in el

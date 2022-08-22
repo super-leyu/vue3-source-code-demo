@@ -1,0 +1,19 @@
+{
+  "name": "vue3-source-code-demo",
+  "version": "1.0.0",
+  "description": "Vue3 核心API及Feature实现",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-leyu/vue3-source-code-demo.git"
+  },
+  "author": "super-leyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-leyu/vue3-source-code-demo/issues"
+  },
+  "homepage": "https://github.com/super-leyu/vue3-source-code-demo#readme"
+}

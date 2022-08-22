@@ -1,0 +1,12 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "search.useIgnoreFiles": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.semi": false
+}
